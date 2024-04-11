@@ -1,0 +1,32 @@
+.nav{
+    width: 100vw;
+    height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #404040;
+    color: #FFFFFF;
+    gap: 10vw;
+    padding: 1.5rem 2rem;
+}
+
+.page{
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+}
+
+.pageItem{
+    font-size: 20px;
+}
+
+.clothing{
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+}
+
+.clothingItem{
+    font-size: 25px;
+}
